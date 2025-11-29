@@ -1,4 +1,8 @@
-<img width-"100%" src-"https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=header&textBg=false&reversal=true&fontAlign=50">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=A020F0&section=header&textBg=false&reversal=true&fontAlign=50" />
+
+<div align="center" width="100%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&pause=1000&color=9B35FF&width=1100&lines=%F0%9F%8C%95+Ol%C3%A1%2C+Eu+me+chamo+Alex+%7C+Hi%2C+I'm+Alex+%F0%9F%91%8D;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Estudante+de+ADS+%7C+Student+of+ADS+(Systems+Analysis+and+Development).;%F0%9F%8C%B1+Aprendendo+Typescript++%7C+Studying+Typescript;%E2%9A%A1Fun+Fact%3A+Eu+sou+criador+de+Conte%C3%BAdo+%7C+I'm+a+Content+Creator+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -30,5 +34,4 @@
 
 </div>
 
-<div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=A020F0&section=footer&textBg=false&reversal=true&fontAlign=50" />
