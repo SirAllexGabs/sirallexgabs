@@ -18,8 +18,9 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/youtube-%23341539%20?style=for-the-badge&logo=youtube)
+![Static Badge](https://img.shields.io/badge/youtube-%23341539%20?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SirAllex)
 ![Static Badge](https://img.shields.io/badge/x-%23341539%20?style=for-the-badge&logo=x)
 ![Static Badge](https://img.shields.io/badge/kick-%23341539%20?style=for-the-badge&logo=kick)
 ![Static Badge](https://img.shields.io/badge/gmail-%23341539%20?style=for-the-badge&logo=gmail)
 ![Static Badge](https://img.shields.io/badge/discord-%23341539%20?style=for-the-badge&logo=discord)
+![Static Badge](https://img.shields.io/badge/whatsapp-%23341539%20?style=for-the-badge&logo=whatsapp)
