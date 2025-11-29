@@ -11,7 +11,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirallexgabs&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirallexgabs&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirallexgabs&theme=midnight_purple&utcOffset=8) | 
   |:-:|:-:|:-:|
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirallexgabs&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SirAllexGabs&theme=midnight-purple)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirallexgabs&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SirAllexGabs&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats) |
   |:-:|:-:|
 
 
