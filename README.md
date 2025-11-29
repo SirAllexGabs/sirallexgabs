@@ -1,9 +1,4 @@
-## Olá, eu me chamo Alex/ Hi, I'm Alex  ✌️
-
-- 👨‍🎓 Estudante de ADS | Student of ADS (Systems Analysis and Development).
-- 🌱 Estudando Typescript | Studying Typescript
-- 😄 Pronouns: Ele/dele | He/him 
-- ⚡ Fato Divertido: Sou criador de conteúdo ✌️ | Fun Fact: I'm a content creator ✌️
+-<img width-"100%" src-"https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=header&textBg=false&reversal=true&fontAlign=50"/>
 
 <br>
 <br>
@@ -37,8 +32,3 @@
 
 <div>
 
-<picture>
-        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-        <img alt="github-snake" src="github-snake.svg" />
-      </picture>
