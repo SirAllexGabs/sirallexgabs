@@ -15,3 +15,9 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirallexgabs&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SirAllexGabs&theme=midnight-purple&hide_border=true&mode=weekly&card_width=490)](https://git.io/streak-stats) |
   |:-:|:-:|
 
+
+<div align="center">
+
+![Static Badge](https://img.shields.io/badge/youtube-%23341539%20?style=for-the-badge&logo=youtube)
+![Static Badge](https://img.shields.io/badge/x-%23341539%20?style=for-the-badge&logo=x)
+![Static Badge](https://img.shields.io/badge/kick-%23341539%20?style=for-the-badge&logo=kick)
