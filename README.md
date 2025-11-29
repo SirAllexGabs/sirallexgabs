@@ -24,3 +24,10 @@
 ![Static Badge](https://img.shields.io/badge/gmail-%23341539%20?style=for-the-badge&logo=gmail)
 ![Static Badge](https://img.shields.io/badge/discord-%23341539%20?style=for-the-badge&logo=discord)
 ![Static Badge](https://img.shields.io/badge/whatsapp-%23341539%20?style=for-the-badge&logo=whatsapp)
+
+
+</div>
+
+
+<div align="center" style="display: inline_block"><br>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
