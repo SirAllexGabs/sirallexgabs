@@ -31,4 +31,4 @@
 
 <div align="center" style="display: inline_block"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linkedin,ts,figma,github)](https://skillicons.dev)
